@@ -1,6 +1,6 @@
 package com.example.dong.coolweather.db;
 
-import DataSupport;
+import org.litepal.crud.DataSupport;
 
 /**
  * Created by dong on 2018/3/5.
